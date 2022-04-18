@@ -1,0 +1,3 @@
+Greedy Algorithm adalah jenis algoritma yang menggunakan pendekatan penyelesaian penyelesaian masalah
+dengan mencar nilai maksimum pada setiap langkahnya.
+Contoh implementasinya di kehidupan nyata adalah ketika kita ingin mencari jarak terpendek untuk mencapai lokasi tujuan
